@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me - send me an email to gabaatlholekagiso594@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Kagiso-Gabaatlhole/Kagiso-Gabaatlhole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
